@@ -1,0 +1,19 @@
+name: crop_insurance
+channels:
+- conda-forge
+- anaconda
+dependencies:
+- drawarrow
+- geopandas
+- highlight_text
+- ipython
+- ipykernel
+- ipywidgets
+- matplotlib
+- notebook
+- numpy
+- pandas
+- pre-commit
+- pyarrow
+- requests
+- tqdm
